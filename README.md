@@ -1,4 +1,4 @@
-<p align="left">Olá, sou Diego...<br><br>🎓 Estudante autodidata de desenvolvimento Full Stack <br>💻 Atualmente, focado em projetos pessoais e estudos de AWS <br>🤝 Participo de mentorias e ajudo novos desenvolvedores na Plataforma Impact<br>🛠️ Explorando Arquitetura de Software, Cloud Computing e DevOps<br>🔍 Sempre disposto a aprender e enfrentar novos desafios com foco em resultados<br>💪 Gosto de resolver problemas, explorar novas tecnologias e puxar peso</p>
+<p align="left">Olá, sou Diego...<br><br>🎓 Estudante autodidata de desenvolvimento Back-end <br>💻 Atualmente, focado em trabalho e projetos pessoais <br>🤝 Participo de mentorias e ajudo novos desenvolvedores na Plataforma Impact<br>🛠️ Explorando Arquitetura de Software, Cloud Computing e DevOps<br>🔍 Sempre disposto a aprender e enfrentar novos desafios com foco em resultados<br>💪 Gosto de resolver problemas, explorar novas tecnologias e puxar peso</p>
 
 ###
 
